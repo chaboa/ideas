@@ -8,4 +8,6 @@
     - taking cover as protection but restricts visibility
 
 ### Games Adolescent
-  - create base
+  - pixel tarkov
+    - create light physics first
+      - view is blocked by objects, can't see past them
