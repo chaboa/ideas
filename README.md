@@ -1,7 +1,7 @@
 # Ideas
 
 ## Games Fledgling
-  # pixel, top down, tarkov
+  - pixel, top down, tarkov
     - multiplayer?
     - light limited (gear/environment based fog of war)
     - directional sounds, footsteps/gunfire
