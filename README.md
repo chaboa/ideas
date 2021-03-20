@@ -1,1 +1,3 @@
-# ideas
+# Ideas
+
+## Games
