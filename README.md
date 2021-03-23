@@ -12,3 +12,6 @@
   - pixel tarkov
     - create light physics first
       - view is blocked by objects, can't see past them
+      - Picture peaking into a doorway and a 3 man squad runs accross a thin strip of visablilty through the door and back into the shadows -- whats your next move?
+          * the top-down allows tactical planning using the 3rd person perspective of the map 
+          * "fog of war" and nightvision/personal light source (various levels + restrictions) main barrier for PVP and PVE
